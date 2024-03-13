@@ -12,7 +12,7 @@
 
 
 
-[linkedin]:[https://www.linkedin.com/in/abdemir-rivera/]
+[linkedin]: https://www.linkedin.com/in/abdemir-rivera/
 
 
 
